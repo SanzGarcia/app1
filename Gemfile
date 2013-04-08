@@ -14,6 +14,8 @@ end
 gem 'devise'
 gem 'simple_form'
 gem "paperclip", "~> 3.0"
+gem 'aws-sdk'
+gem 'faker'
 
 # Gems used only for assets and not required
 # in production environments by default.
